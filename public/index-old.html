@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Currency Speculator</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <main>
+        <h1 class="title">ExchangePoint<span class="red">Live</span></h1>
+        <p id="status" class="status">Disconnected 🔴 / Live Prices 🟢</p>
+        <p class="price">1 USD ($) buys <span id="price">-.--</span> GBP (£)</p>
+        <form>
+            <label>USD Value</label>
+            <div class="input-container">
+                <img class="flag" src="usa.png">
+                <input type="number" id="sell-amount" placeholder="100:00">
+            </div>
+            <label>GBP Value</label>
+            <div class="input-container">
+                <img class="flag" src="uk.png">
+                <input type="number" id="buy-amount" placeholder="87:00">
+            </div>
+            <button id="buy-btn" class="buy-btn">Buy Now</button>
+        </form>
+    </main>
+    <script type="module" src="index.js"></script>
+</body>
+
+</html>
