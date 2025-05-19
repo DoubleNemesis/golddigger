@@ -2,10 +2,8 @@ import path from 'path';
 import fs from 'fs/promises';
 import { sendResponse } from '../utils/sendResponse.js';
 import { getContentType } from '../utils/getContentType.js';
-import { fileURLToPath } from 'url';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const __dirname = import.meta.dirname
 
 export async function serveStatic(req, res) {
     const publicDir = path.join(__dirname, '../public');

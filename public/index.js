@@ -43,6 +43,7 @@ document.querySelector("form").addEventListener("submit", async (e) => {
 
       closeButton.addEventListener("click", () => {
         dialog.close();
+        document.getElementById("investment-amount").value = "";
       });
 
       investmentSummary.textContent = `You bought ${amountBought} ounces (ozt) for £${amountToDebit}. \n The sale has executed and we're preparing your documenation.`;

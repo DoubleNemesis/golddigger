@@ -4,3 +4,7 @@ Mon Jan 20 2025 16:47:23 GMT+0000 (Greenwich Mean Time), amount paid: 1000, pric
 Mon Jan 20 2025 16:49:17 GMT+0000 (Greenwich Mean Time), amount paid: 1000, price: 1927.11, amount gold sold: 0.5189117383024322 Oz. 
 Mon Jan 20 2025 16:50:39 GMT+0000 (Greenwich Mean Time), amount paid: 1000, price: 1984.44, amount gold sold: 0.5039205015016831 Oz. 
 Mon Jan 20 2025 16:50:43 GMT+0000 (Greenwich Mean Time), amount paid: 1000, price: 1973.70, amount gold sold: 0.5066626133657597 Oz. 
+Mon May 19 2025 10:00:37 GMT+0100 (British Summer Time), amount paid: 200, price: 1915.68, amount gold sold: 0.1044015701996158 Oz. 
+Mon May 19 2025 10:01:05 GMT+0100 (British Summer Time), amount paid: 200, price: 1930.92, amount gold sold: 0.10357756924160504 Oz. 
+Mon May 19 2025 10:10:50 GMT+0100 (British Summer Time), amount paid: 100, price: 1997.12, amount gold sold: 0.050072103829514505 Oz. 
+Mon May 19 2025 10:13:36 GMT+0100 (British Summer Time), amount paid: 1000, price: 2122.94, amount gold sold: 0.4710448717344814 Oz. 
