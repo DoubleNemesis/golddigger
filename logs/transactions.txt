@@ -9,3 +9,8 @@ Mon May 19 2025 10:01:05 GMT+0100 (British Summer Time), amount paid: 200, price
 Mon May 19 2025 10:10:50 GMT+0100 (British Summer Time), amount paid: 100, price: 1997.12, amount gold sold: 0.050072103829514505 Oz. 
 Mon May 19 2025 10:13:36 GMT+0100 (British Summer Time), amount paid: 1000, price: 2122.94, amount gold sold: 0.4710448717344814 Oz. 
 Mon May 19 2025 11:40:42 GMT+0100 (British Summer Time), amount paid: 3000, price: 1974.39, amount gold sold: 1.5194566423047118 Oz. 
+2025-05-19T12:41:46.917Z, amount paid: £1000, price per Oz: £2009.57, gold sold: 0.4976 Oz
+2025-05-19T12:59:29.293Z, amount paid: £234, price per Oz: £2235.38, gold sold: 0.1047 Oz
+2025-05-19T13:10:11.437Z, amount paid: £1001, price per Oz: £2018.50, gold sold: 0.4959 Oz
+2025-05-19T13:57:08.032Z, amount paid: £22, price per Oz: £1890.57, gold sold: 0.0116 Oz
+2025-05-19T14:13:04.448Z, amount paid: £2002, price per Oz: £2103.67, gold sold: 0.9517 Oz
